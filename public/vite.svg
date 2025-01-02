@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="85" fill="none" stroke="#2E3B4E" stroke-width="10"/> <!-- Dark theme background -->
+
+  <!-- Enlarged Left Arrow "<" with proper spacing -->
+  <path d="M10 100 L50 50 L50 150 Z" 
+        fill="#00A6FB" />
+
+  <!-- Bold Stylized "H" with more space -->
+  <path d="M70 50 L70 150 M70 100 L130 100 M130 50 L130 150" 
+        fill="none" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" />
+
+  <!-- Enlarged Right Arrow ">" with proper spacing -->
+  <path d="M140 50 L180 100 L140 150 Z" 
+        fill="#00A6FB" />
+</svg>
